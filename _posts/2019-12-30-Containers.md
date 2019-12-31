@@ -17,7 +17,7 @@ published: true
 
 > veritysetup create rootfs rootfs.img rootfs.dmverity $HASH
 
-> mount -o noatime rootfs.img /rootfs 
+> mount -o noatime /dev/mapper/rootfs.img /rootfs 
 
 
 `DM_INTEGRITY`
