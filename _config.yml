@@ -1,9 +1,9 @@
-title: "0x726f6b6d"
-description: "cmpxchg"
+title: "s1gm01d"
+description: "personal page"
 author:
-  name: "rokm"
+  name: "s1gm01d"
   email: "rokm@freeshell.de"
-  url: "https://0x726f6b6d.github.io"
+  url: "https://s1gm01d.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "rokm"
-year : "2o2o"
+owner : "s1gm01d"
+year : "2o23"
